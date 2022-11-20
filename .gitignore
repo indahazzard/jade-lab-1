@@ -27,4 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-.idea
+.idea/
+.idea/libraries
+APDescription.txt
+jade-4.5.0.jar
+MTPs-Main-Container.txt
+classes/
