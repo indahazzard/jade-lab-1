@@ -1,6 +1,6 @@
 package buyer;
 
-public interface IBookBuyerGui {
+public interface BookBuyerGuiInterface {
     void setAgent(BookBuyerAgent a);
     void show();
     void hide();

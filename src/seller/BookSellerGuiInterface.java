@@ -1,6 +1,6 @@
 package seller;
 
-public interface IBookSellerGui {
+public interface BookSellerGuiInterface {
     void setAgent(BookSellerAgent a);
     void show();
     void hide();
